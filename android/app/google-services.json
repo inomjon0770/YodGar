@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303804017142",
+    "firebase_url": "https://yodgar-a348f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yodgar-a348f",
+    "storage_bucket": "yodgar-a348f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303804017142:android:678f7486eff3b5d9b0ffd7",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303804017142-ave4q2fu84fddk7paeqm4138i8es3jmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NhdSsImseQct04xkQhlP88zPRd249Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303804017142-ave4q2fu84fddk7paeqm4138i8es3jmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
